@@ -1,0 +1,33 @@
+date,description,amount,category
+2024-01-05,Grocery Store,85.43,Groceries
+2024-01-07,Gas Station,45.20,Transportation
+2024-01-10,Restaurant,67.89,Dining
+2024-01-12,Amazon Purchase,120.45,Shopping
+2024-01-15,Electric Bill,98.50,Utilities
+2024-01-18,Netflix Subscription,15.99,Entertainment
+2024-01-20,Gym Membership,45.00,Health
+2024-01-22,Grocery Store,92.17,Groceries
+2024-01-25,Coffee Shop,23.50,Dining
+2024-01-28,Gas Station,52.30,Transportation
+2024-02-02,Restaurant,145.00,Dining
+2024-02-05,Grocery Store,78.92,Groceries
+2024-02-08,Best Buy Electronics,450.00,Shopping
+2024-02-10,Water Bill,35.20,Utilities
+2024-02-12,Movie Tickets,38.00,Entertainment
+2024-02-15,Pharmacy,42.50,Health
+2024-02-18,Gas Station,48.75,Transportation
+2024-02-20,Grocery Store,105.33,Groceries
+2024-02-22,Restaurant,89.25,Dining
+2024-02-25,Internet Bill,79.99,Utilities
+2024-02-28,Amazon Purchase,215.80,Shopping
+2024-03-03,Grocery Store,95.60,Groceries
+2024-03-05,Gas Station,55.40,Transportation
+2024-03-08,Coffee Shop,18.75,Dining
+2024-03-10,Spotify Subscription,9.99,Entertainment
+2024-03-12,Doctor Visit,150.00,Health
+2024-03-15,Restaurant,72.40,Dining
+2024-03-18,Grocery Store,88.25,Groceries
+2024-03-20,Gas Station,61.90,Transportation
+2024-03-22,Furniture Store,890.00,Shopping
+2024-03-25,Electric Bill,102.30,Utilities
+2024-03-28,Restaurant,95.50,Dining
