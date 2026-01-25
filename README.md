@@ -83,6 +83,20 @@ Frontend will run at: `http://localhost:5173`
 - ✅ **Natural language financial insights**
 - ✅ **Context-aware spending analysis**
 
+## 📸 Screenshots
+
+### File Upload
+![Upload](screenshots/file-upload.png)
+
+### Dashboard Overview
+![Dashboard](screenshots/dashboard.png)
+
+### AI Chat
+![AI Chat](screenshots/ai-chat.png)
+
+### Anomaly Detection  
+![Anomalies](screenshots/anomaly-detection.png)
+
 ### Coming Soon
 - 🔄 Time-series forecasting (Prophet/statsmodels)
 - 🔄 Trend analysis with ML
