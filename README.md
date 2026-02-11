@@ -51,7 +51,7 @@ cp .env.example .env
 python test_ai.py
 
 # Run the server
-uvicorn main:app --reload
+python -m uvicorn main:app --reload
 ```
 
 Backend will run at: `http://localhost:8000`
