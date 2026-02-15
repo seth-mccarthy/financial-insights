@@ -1,8 +1,8 @@
-# 💰 Financial Insights Platform
+# Financial Insights Platform
 
 AI-powered financial analysis platform built with **FastAPI** (Python) and **React + TypeScript**.
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 financial-insights/
@@ -25,7 +25,7 @@ financial-insights/
 └── sample_transactions.csv
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.9+
@@ -70,7 +70,7 @@ npm run dev
 
 Frontend will run at: `http://localhost:5173`
 
-## 📊 Features
+## Features
 
 ### Current Features
 - ✅ CSV upload and processing
@@ -83,7 +83,7 @@ Frontend will run at: `http://localhost:5173`
 - ✅ **Natural language financial insights**
 - ✅ **Context-aware spending analysis**
 
-## 📸 Screenshots
+## Screenshots
 
 ### File Upload
 ![Upload](screenshots/file-upload.png)
@@ -105,7 +105,7 @@ Frontend will run at: `http://localhost:5173`
 - 🔄 User authentication
 - 🔄 Conversation history storage
 
-## 🧪 Testing with Sample Data
+## Testing with Sample Data
 
 Use the included `sample_transactions.csv` to test the application:
 
@@ -113,7 +113,7 @@ Use the included `sample_transactions.csv` to test the application:
 2. Upload `sample_transactions.csv` through the UI
 3. View generated insights and anomalies
 
-## 🛠️ Technology Stack
+## Tech Stack
 
 **Backend:**
 - FastAPI - Modern Python web framework
@@ -129,7 +129,7 @@ Use the included `sample_transactions.csv` to test the application:
 - Recharts - Data visualizations
 - CSS3 - Styling
 
-## 📝 API Endpoints
+## API Endpoints
 
 ### `POST /api/upload`
 Upload CSV file with transaction data
@@ -172,7 +172,7 @@ Chat with AI about your financial data
 ### `GET /api/insights/summary`
 Get AI-generated natural language summary of your finances
 
-## 🔐 Environment Variables
+## Environment Variables
 
 Create a `.env` file in the backend directory:
 
@@ -185,37 +185,6 @@ OPENAI_API_KEY=sk-...
 DATABASE_URL=postgresql://user:pass@localhost/financial_insights
 ```
 
-## 🎯 Next Steps
-
-1. **Add AI Integration:**
-   - Implement Claude API for natural language insights
-   - Add context from transaction data to prompts
-   - Create conversational interface
-
-2. **Implement Forecasting:**
-   - Use Prophet for time-series predictions
-   - Generate spending forecasts
-   - Predict budget needs
-
-3. **Database Migration:**
-   - Switch from in-memory to PostgreSQL
-   - Add user authentication
-   - Store insights history
-
-4. **Enhanced Analytics:**
-   - Compare spending across time periods
-   - Detect spending patterns
-   - Budget vs actual tracking
-
-5. **Deployment:**
-   - Docker containerization
-   - Deploy to AWS/Heroku/Railway
-   - Add CI/CD pipeline
-
-## 🤝 Contributing
-
-This is a portfolio project, but suggestions are welcome!
-
-## 📄 License
+## License
 
 MIT License - Feel free to use this project for your portfolio.
